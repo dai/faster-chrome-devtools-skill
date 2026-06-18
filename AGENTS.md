@@ -32,3 +32,10 @@ session data") and don't include personal session counts or identifiers.
 
 Update this AGENTS.md whenever the project's structure or conventions change in a
 way that future edits should know about.
+
+## Japanese localization
+
+`SKILL.ja.md` is the Japanese translation of `SKILL.md`. `README.ja.md` is the
+Japanese translation of `README.md`. When updating either English file, update
+the corresponding Japanese file to keep them in sync. The same portability rules
+apply: no machine-specific values, no hardcoded config keys, no personal paths.
