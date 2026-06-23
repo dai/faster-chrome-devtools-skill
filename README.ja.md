@@ -1,6 +1,8 @@
 # faster-chrome-devtools-skill
 
-Google が公式の [MCP サーバー](https://zeke.sikelianos.com/driving-chrome-with-an-agent/)を提供しており、AI エージェントからログイン済みの Chrome ブラウザをリモート操作できます。非常に便利ですが、デフォルトでは動作が遅くなりがちです。このスキルは、MCP を使ったブラウザ操作をより速く、より安全にするために作られました。
+[English](README.md)
+
+Google が公式の [MCP サーバー](https://zeke.sikelianos.com/driving-chrome-with-an-agent/) を提供しており、AI エージェントからログイン済みの Chrome ブラウザをリモート操作できます。非常に便利ですが、デフォルトでは動作が遅くなりがちです。このスキルは、MCP を使ったブラウザ操作をより速く、より安全にするために作られました。
 
 ![HIC LIMAX NAVIGAT LENTE](images/chrome-snail-09.jpg)
 
